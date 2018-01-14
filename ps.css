@@ -1,0 +1,20 @@
+body {
+   background-image:url("https://vignette.wikia.nocookie.net/typemoon/images/4/42/Fate-Grand-Order-Arcade_2017_07-29-17_001.jpg/revision/latest?cb=20171207154014");
+}
+.title-center{
+	text-align: center;
+	color: white;
+}
+
+.row{
+	background-color: rgba(172,214,255, 0.4);
+	text-align: center;
+}
+
+.list-group{
+	 background-image:url("https://vignette.wikia.nocookie.net/typemoon/images/4/42/Fate-Grand-Order-Arcade_2017_07-29-17_001.jpg/revision/latest?cb=20171207154014");
+}
+.title-middle{
+	text-align: center;
+	margin-left:500px; 
+}
