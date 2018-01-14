@@ -1,5 +1,7 @@
 body{
 background-image: url(http://www.otakuusamagazine.com/uploads/public/fgolaunchannouncement.jpg);
+background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .display-4{

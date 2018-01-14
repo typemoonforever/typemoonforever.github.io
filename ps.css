@@ -1,5 +1,7 @@
 body {
    background-image:url("https://vignette.wikia.nocookie.net/typemoon/images/4/42/Fate-Grand-Order-Arcade_2017_07-29-17_001.jpg/revision/latest?cb=20171207154014");
+   background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .title-center{
 	text-align: center;
@@ -44,4 +46,7 @@ body {
 }
 .navbar-brand{
 	font-weight: bolder;
+}
+.fap{
+	margin-top: 15px;
 }
